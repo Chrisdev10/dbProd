@@ -1,0 +1,21 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "marque": "nvidia",
+      "modele": "pro 1231",
+      "stock": 49,
+      "prix": 866,
+      "en_vente": true
+    },
+    {
+      "id": 2,
+      "marque": "apple",
+      "model": "macbook air",
+      "stock": 123,
+      "prix": 123,
+      "vente": true,
+      "en_vente": false
+    }
+  ]
+}
