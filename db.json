@@ -14,8 +14,23 @@
       "model": "macbook air",
       "stock": 123,
       "prix": 123,
-      "vente": true,
       "en_vente": false
+    },
+    {
+      "id": 3,
+      "marque": "eastpack",
+      "model": "sac",
+      "stock": 947,
+      "prix": 153,
+      "en_vente": true
+    },
+    {
+      "id": 4,
+      "marque": "Sony",
+      "model": "8K OLED X-134kl132",
+      "stock": 143,
+      "prix": 999.99,
+      "en_vente": true
     }
   ]
 }
